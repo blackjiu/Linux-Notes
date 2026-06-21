@@ -4,7 +4,9 @@
   1. 常见的操作系统：Windows、IOS、Android、MacOS、Linux、Unix
   2. Linux吉祥物
 
-<img src=".\image\1\1.png" alt="1" style="zoom: 25%;" />
+< img src="./image/1/1.png" alt="1" style="zoom: 25%;" />
+
+
 
   1. Linux之父：Linus Torvalds
   2. Linux主要的发行版：
@@ -18,7 +20,8 @@
 
  ## VM和Linux的关系
 
-<img src=".\image\1\2.png" style="zoom: 50%;" />
+< img src="./image/1/2.png" style="zoom: 50%;" />
+
 
 # 三、网络连接的三种模式
 1. 桥接模式：虚拟系统可以和外部系统通讯，但容易造成IP冲突
