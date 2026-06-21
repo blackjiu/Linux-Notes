@@ -3,7 +3,6 @@
 
   1. 常见的操作系统：Windows、IOS、Android、MacOS、Linux、Unix
   2. Linux吉祥物
-
 < img src="./image/1/1.png" alt="1" style="zoom: 25%;" />
 
 
@@ -19,8 +18,9 @@
  ② 虚拟机(VM) → Linux
 
  ## VM和Linux的关系
-
 < img src="./image/1/2.png" style="zoom: 50%;" />
+
+
 
 
 # 三、网络连接的三种模式
