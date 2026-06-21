@@ -3,7 +3,8 @@
 
   1. 常见的操作系统：Windows、IOS、Android、MacOS、Linux、Unix
   2. Linux吉祥物
-< img src="./image/1/1.png" alt="1" style="zoom: 25%;" />
+<img width="400"  alt="1" src="https://github.com/user-attachments/assets/ef0e142b-9948-4989-a20d-03b213cfb7f4" />
+
 
 
 
@@ -18,7 +19,8 @@
  ② 虚拟机(VM) → Linux
 
  ## VM和Linux的关系
-< img src="./image/1/2.png" style="zoom: 50%;" />
+<img width="400"  alt="2" src="https://github.com/user-attachments/assets/c2170270-caa7-47ed-877e-0dfef94fda8f" />
+
 
 
 
